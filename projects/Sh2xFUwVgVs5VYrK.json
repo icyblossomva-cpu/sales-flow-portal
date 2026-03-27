@@ -1,0 +1,1356 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "text": {
+          "ops": [
+            {
+              "insert": "Remote Blossom Co. — Services"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Basic VA Support",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "va"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "starter"
+              },
+              "@price1": "$25–$35/hr",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "hourly"
+              },
+              "@desc1": "Email management, calendar scheduling, data entry, and basic admin tasks"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000002",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Standard VA Support",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "va"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "standard"
+              },
+              "@price1": "$35–$50/hr",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "hourly"
+              },
+              "@desc1": "Client communication, CRM updates, research, and document support"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000003",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Premium VA Support",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "va"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@price1": "$50–$65/hr",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "hourly"
+              },
+              "@desc1": "Project coordination, reporting, workflow support, and light automations"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000004",
+            "text": {
+              "ops": [
+                {
+                  "insert": "VA Monthly Retainer — 20hrs",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "va"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "standard"
+              },
+              "@price1": "$700–$1,000/mo",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "monthly"
+              },
+              "@desc1": "Consistent, priority VA support — 20 hours per month"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000005",
+            "text": {
+              "ops": [
+                {
+                  "insert": "VA Monthly Retainer — 40hrs",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "va"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@price1": "$1,300–$1,800/mo",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "monthly"
+              },
+              "@desc1": "Full priority VA support — 40 hours per month"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000006",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Starter Pinterest Management",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "pm"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "starter"
+              },
+              "@price1": "$400–$600/mo",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "monthly"
+              },
+              "@desc1": "Account setup or refresh, up to 10 pins/week, basic SEO"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000007",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Growth Pinterest Management",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "pm"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "standard"
+              },
+              "@price1": "$700–$1,000/mo",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "monthly"
+              },
+              "@desc1": "15–20 custom pins/week, board and pin SEO, monthly analytics"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000008",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Premium Pinterest Management",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "pm"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@price1": "$1,200–$1,800/mo",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "monthly"
+              },
+              "@desc1": "20–30 custom pins/week, advanced SEO, strategy call, full analytics"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000009",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Pinterest + VA Support Bundle",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "bundle"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@price1": "$1,500–$2,200/mo",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "monthly"
+              },
+              "@desc1": "Pinterest management combined with dedicated admin support"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000010",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Operations Support",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "ops"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "standard"
+              },
+              "@price1": "$60–$80/hr",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "hourly"
+              },
+              "@desc1": "SOP creation, onboarding workflows, and task management systems"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000011",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Systems Setup — CRM & Tools",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "ops"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "standard"
+              },
+              "@price1": "$450–$800",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "onetime"
+              },
+              "@desc1": "CRM setup, pipelines, and tools configuration — one-time project"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000012",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Workflow Automations",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "ops"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@price1": "$500–$1,200",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "onetime"
+              },
+              "@desc1": "Zapier or Make automation builds — per automation"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000013",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Business Launch Support Bundle",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "bundle"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "custom"
+              },
+              "@price1": "$2,000–$4,000",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "onetime"
+              },
+              "@desc1": "CRM setup, SOPs, onboarding workflows — complete business launch package"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aa000001-0000-0000-0000-000000000014",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Systems Overhaul + Pinterest Launch",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@cat01": {
+                "type": "Select",
+                "optionId": "bundle"
+              },
+              "@tier1": {
+                "type": "Select",
+                "optionId": "custom"
+              },
+              "@price1": "$3,500–$6,000",
+              "@ptype1": {
+                "type": "Select",
+                "optionId": "onetime"
+              },
+              "@desc1": "Full systems rebuild plus Pinterest starter package"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "fields": {
+      "@cat01": {
+        "displayName": "Category",
+        "type": "Select",
+        "options": {
+          "va": {
+            "id": "va",
+            "name": "Virtual Assistant",
+            "rank": "0",
+            "color": "#86B89C"
+          },
+          "pm": {
+            "id": "pm",
+            "name": "Pinterest Management",
+            "rank": "1",
+            "color": "#E8A598"
+          },
+          "ops": {
+            "id": "ops",
+            "name": "Operations & Systems",
+            "rank": "2",
+            "color": "#9B8BB4"
+          },
+          "bundle": {
+            "id": "bundle",
+            "name": "Bundle Package",
+            "rank": "3",
+            "color": "#D4A96A"
+          }
+        }
+      },
+      "@tier1": {
+        "displayName": "Tier",
+        "type": "Select",
+        "options": {
+          "starter": {
+            "id": "starter",
+            "name": "Starter",
+            "rank": "0",
+            "color": "#A8C5B5"
+          },
+          "standard": {
+            "id": "standard",
+            "name": "Standard",
+            "rank": "1",
+            "color": "#C5A8B5"
+          },
+          "premium": {
+            "id": "premium",
+            "name": "Premium",
+            "rank": "2",
+            "color": "#B5C5A8"
+          },
+          "custom": {
+            "id": "custom",
+            "name": "Custom",
+            "rank": "3",
+            "color": "#C5C0A8"
+          }
+        }
+      },
+      "@price1": {
+        "displayName": "Starting Price",
+        "type": "string"
+      },
+      "@ptype1": {
+        "displayName": "Pricing Type",
+        "type": "Select",
+        "options": {
+          "hourly": {
+            "id": "hourly",
+            "name": "Hourly",
+            "rank": "0",
+            "color": "#88BFAE"
+          },
+          "monthly": {
+            "id": "monthly",
+            "name": "Monthly Retainer",
+            "rank": "1",
+            "color": "#BFA8C5"
+          },
+          "onetime": {
+            "id": "onetime",
+            "name": "One-Time Project",
+            "rank": "2",
+            "color": "#C5B88A"
+          }
+        }
+      },
+      "@desc1": {
+        "displayName": "Short Description",
+        "type": "string"
+      }
+    },
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z"
+          },
+          "/attributes/@tier1": {
+            "id": "/attributes/@tier1",
+            "fieldPath": "/attributes/@tier1",
+            "rank": "zV"
+          },
+          "/attributes/@price1": {
+            "id": "/attributes/@price1",
+            "fieldPath": "/attributes/@price1",
+            "rank": "zk"
+          },
+          "/attributes/@ptype1": {
+            "id": "/attributes/@ptype1",
+            "fieldPath": "/attributes/@ptype1",
+            "rank": "zs"
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zw"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z"
+          },
+          "/attributes/@tier1": {
+            "id": "/attributes/@tier1",
+            "fieldPath": "/attributes/@tier1",
+            "rank": "zV"
+          },
+          "/attributes/@price1": {
+            "id": "/attributes/@price1",
+            "fieldPath": "/attributes/@price1",
+            "rank": "zk"
+          },
+          "/attributes/@ptype1": {
+            "id": "/attributes/@ptype1",
+            "fieldPath": "/attributes/@ptype1",
+            "rank": "zs"
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zw"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z"
+          },
+          "/attributes/@tier1": {
+            "id": "/attributes/@tier1",
+            "fieldPath": "/attributes/@tier1",
+            "rank": "zV"
+          },
+          "/attributes/@price1": {
+            "id": "/attributes/@price1",
+            "fieldPath": "/attributes/@price1",
+            "rank": "zk"
+          },
+          "/attributes/@ptype1": {
+            "id": "/attributes/@ptype1",
+            "fieldPath": "/attributes/@ptype1",
+            "rank": "zs"
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zw"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z"
+          },
+          "/attributes/@tier1": {
+            "id": "/attributes/@tier1",
+            "fieldPath": "/attributes/@tier1",
+            "rank": "zV"
+          },
+          "/attributes/@price1": {
+            "id": "/attributes/@price1",
+            "fieldPath": "/attributes/@price1",
+            "rank": "zk"
+          },
+          "/attributes/@ptype1": {
+            "id": "/attributes/@ptype1",
+            "fieldPath": "/attributes/@ptype1",
+            "rank": "zs"
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zw"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@tier1": {
+            "id": "/attributes/@tier1",
+            "fieldPath": "/attributes/@tier1",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@price1": {
+            "id": "/attributes/@price1",
+            "fieldPath": "/attributes/@price1",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@ptype1": {
+            "id": "/attributes/@ptype1",
+            "fieldPath": "/attributes/@ptype1",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zw",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@tier1": {
+            "id": "/attributes/@tier1",
+            "fieldPath": "/attributes/@tier1",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@price1": {
+            "id": "/attributes/@price1",
+            "fieldPath": "/attributes/@price1",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@ptype1": {
+            "id": "/attributes/@ptype1",
+            "fieldPath": "/attributes/@ptype1",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zw",
+            "hidden": false
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🔗"
+    }
+  }
+}
